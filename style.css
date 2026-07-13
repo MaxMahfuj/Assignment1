@@ -544,8 +544,8 @@ img {
     margin: 0 auto;
     padding: 40px;
 
-    background-color: white;
-    border: 1px solid #ddd;
+    background-color: rgb(42, 59, 247);
+    border: 1px solid #10f45c;
     border-radius: 12px;
 
     box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
