@@ -608,4 +608,11 @@ img {
         gap: 15px;
     }
 
-   
+    .schedule-events {
+        min-width: auto;
+    }
+
+    .schedule-card {
+        padding: 25px;
+    }
+}
